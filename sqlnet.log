@@ -1,0 +1,12 @@
+NL-08014: Fallo al inicializar el marco de diagnóstico, retrocediendo al rastreo/registro de red anterior 
+ 
+ NL-08015: Fallo de inicialización del marco de diagnóstico por parte de Client(OCI)
+  ORA-48165: el usuario no tiene permiso de lectura, escritura o ejecución en el directorio base de ADR especificado []
+User inputted base directory is invalid [48187] [D:\Oracle\product\11.2.0\dbhome_1\log]
+
+NL-08014: Fallo al inicializar el marco de diagnóstico, retrocediendo al rastreo/registro de red anterior 
+ 
+ NL-08015: Fallo de inicialización del marco de diagnóstico por parte de Client(OCI)
+  ORA-48165: el usuario no tiene permiso de lectura, escritura o ejecución en el directorio base de ADR especificado []
+User inputted base directory is invalid [48187] [D:\Oracle\product\11.2.0\dbhome_1\log]
+

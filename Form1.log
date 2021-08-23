@@ -1,0 +1,7 @@
+Línea 116: la clase MSComctlLib.ListView del control ListViewTablas no era una clase de control cargada.
+Línea 172: la clase MSComctlLib.ListView del control ListViewConexion no era una clase de control cargada.
+Línea 230: la clase MSComctlLib.ListView del control ListViewTablespaces no era una clase de control cargada.
+Línea 283: la clase MSComctlLib.ListView del control ListViewSQL no era una clase de control cargada.
+Línea 330: la clase MSComctlLib.ListView del control ListView no era una clase de control cargada.
+Línea 383: la clase MSComctlLib.ListView del control ListViewFind no era una clase de control cargada.
+Línea 441: la clase MSComctlLib.StatusBar del control StatusBar no era una clase de control cargada.
